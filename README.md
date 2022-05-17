@@ -3,6 +3,7 @@ Viết chương trình python đơn giản thao tác với dữ liệu
 
 Xem notebook trên googlecolab
 
+program.py: chương trình theo đề
 
 Cách import module python mà tên file của nó chứa khoảng trắng:
 https://stackoverflow.com/questions/9123517/how-do-you-import-a-file-in-python-with-spaces-in-the-name
