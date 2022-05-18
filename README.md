@@ -6,6 +6,12 @@ https://colab.research.google.com/github/myus3rnam3159/ChuongTrinhDonGian/blob/m
 
 program.py: chương trình theo đề  
 
+Chuyễn mỗi chuỗi gồm nhiều số ngăn cách bởi dấu phầy + khoảng trằng thành list các Kí tự số: 
+https://idqna.madreview.net/
+
+Cách xem kiểu của một biến:  
+https://pytutorial.com/python-how-to-get-the-type-of-a-variable
+
 Cách xóa folder repo trong colab:  
 https://stackoverflow.com/questions/52265978/how-to-delete-a-locally-uploaded-file-on-google-colab
 
