@@ -6,6 +6,9 @@ https://colab.research.google.com/github/myus3rnam3159/ChuongTrinhDonGian/blob/m
 
 program.py: chương trình theo đề  
 
+Đọc một file text:  
+https://towardsdatascience.com/the-best-practice-of-reading-text-files-in-python-509b1d4f5a4
+
 Chuyễn mỗi chuỗi gồm nhiều số ngăn cách bởi dấu phầy + khoảng trằng thành list các Kí tự số: 
 https://idqna.madreview.net/
 
