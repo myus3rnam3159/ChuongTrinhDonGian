@@ -6,6 +6,9 @@ Xem notebook trên googlecolab
 
 program.py: chương trình theo đề  
 
+Viết hoa chữ cái đầu mỗi từ trong chuỗi từ cách nhau bằng dấu cách  
+https://www.codespeedy.com/convert-first-letter-of-each-word-to-uppercase-in-python/
+
 Hàm yêu cầu user input:  
 https://www.w3schools.com/python/python_user_input.asp
 
