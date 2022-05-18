@@ -2,6 +2,7 @@
 Viết chương trình python đơn giản thao tác với dữ liệu  
 
 Xem notebook trên googlecolab  
+https://colab.research.google.com/github/myus3rnam3159/ChuongTrinhDonGian/blob/master/notebook.ipynb
 
 program.py: chương trình theo đề  
 
