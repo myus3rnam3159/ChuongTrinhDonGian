@@ -6,6 +6,9 @@ Xem notebook trên googlecolab
 
 program.py: chương trình theo đề  
 
+Tính tổng một list toàn số:  
+https://stackoverflow.com/questions/4362586/sum-a-list-of-numbers-in-python
+
 Viết hoa chữ cái đầu mỗi từ trong chuỗi từ cách nhau bằng dấu cách  
 https://www.codespeedy.com/convert-first-letter-of-each-word-to-uppercase-in-python/
 
