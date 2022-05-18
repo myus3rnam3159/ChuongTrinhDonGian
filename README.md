@@ -5,6 +5,9 @@ Xem notebook trên googlecolab
 
 program.py: chương trình theo đề  
 
+Cách xóa folder repo trong colab:  
+https://stackoverflow.com/questions/52265978/how-to-delete-a-locally-uploaded-file-on-google-colab
+
 Cách xuống dòng trong readme  
 https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md
 
