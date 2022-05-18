@@ -15,8 +15,13 @@ Xem một commit trên github:
         Nếu muốn xem chi tiết một commit, bấm vào tên in đậm của commit
         Nếu muốn xem tổng quát repo tại thời điểm commit, bấm vào biểu tượng <> ở góc trái cuối commit
 
-Cách tạo một git repo sử dụng command line: https://stackoverflow.com/questions/35124997/create-a-github-repository-from-command-line
-Cách xóa một git repo: https://stackoverflow.com/questions/1514054/how-do-i-delete-a-local-repository-in-git
+Cách clone repo trên github vào colab:
+https://vallant.in/mport-python-packages-github-colab/
+
+Cách tạo một git repo sử dụng command line: 
+https://stackoverflow.com/questions/35124997/create-a-github-repository-from-command-line
+Cách xóa một git repo: 
+https://stackoverflow.com/questions/1514054/how-do-i-delete-a-local-repository-in-git
 
 Mở một file .ipynb trên github bằng google colab:
 https://medium.com/@jameld.pro/quickly-open-a-github-repository-notebook-in-google-colab-58c1f44c9d4a
