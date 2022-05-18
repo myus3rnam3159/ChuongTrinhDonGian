@@ -14,5 +14,5 @@ def exportData(data_path, fm = 'list'):
     return content
 #test
 def test():
-    return 1
+    return 2
 
