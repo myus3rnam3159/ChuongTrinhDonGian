@@ -2,9 +2,12 @@
 Viết chương trình python đơn giản thao tác với dữ liệu  
 
 Xem notebook trên googlecolab  
-https://colab.research.google.com/github/myus3rnam3159/ChuongTrinhDonGian/blob/master/notebook.ipynb
+
 
 program.py: chương trình theo đề  
+
+Hàm yêu cầu user input:  
+https://www.w3schools.com/python/python_user_input.asp
 
 Đọc một file text:  
 https://towardsdatascience.com/the-best-practice-of-reading-text-files-in-python-509b1d4f5a4

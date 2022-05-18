@@ -3,16 +3,18 @@
     #fm: dạng dữ liệu muốn xuất:
         # 'list': list
         # 'tuple': tuple
-import re
-
-
 def exportData(data_path, fm = 'list'):
     #Bỏ dấu phẩy và khoảng trắng trong chuỗi
     content = open('sampleData.txt', 'r').readline().split(', ')
     if fm == 'tuple':
         return tuple(content)
     return content
-#test
-def test():
-    return 2
-
+#Hàm tính tổng n số nguyên đầu tiên
+ #n: số lượng số nguyên đầu tiên, n là số tự nhiên
+def sumFirstNPositiveInterger(n):
+    sum = 0
+    i = 1
+    while i <= n:
+        sum = sum + i 
+        i = i + 1
+    return sum
