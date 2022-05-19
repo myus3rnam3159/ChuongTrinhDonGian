@@ -2,9 +2,15 @@
 Viết chương trình python đơn giản thao tác với dữ liệu  
 
 Xem notebook trên googlecolab  
-
+https://colab.research.google.com/drive/1f875tOsDhPWHHBBASFWcb8zRXzpns0OQ?usp=sharing
 
 program.py: chương trình theo đề  
+
+Load phiên bản mới nhất của module trên Colab:  
+https://stackoverflow.com/questions/1739924/python-reload-component-y-imported-with-from-x-import-y/11724154#11724154
+
+Xóa một file chỉ khi nó tồn tại:  
+https://stackoverflow.com/questions/42655177/how-can-i-delete-a-file-only-if-it-exists
 
 Tải file từ web(2 bước bên dưới):  
 https://docs.google.com/document/d/1-ATODq2FrR7dcA5EUlABCQ5HOCy8vJS-/edit  
