@@ -6,6 +6,9 @@ Xem notebook trên googlecolab
 
 program.py: chương trình theo đề  
 
+Kiểm tra phần tử trong list có phải là số không:  
+https://stackoverflow.com/questions/3225305/how-to-check-if-an-element-of-a-list-is-a-number
+
 Tính tổng một list toàn số:  
 https://stackoverflow.com/questions/4362586/sum-a-list-of-numbers-in-python
 

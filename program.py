@@ -18,3 +18,14 @@ def sumFirstNPositiveInterger(n):
         sum = sum + i 
         i = i + 1
     return sum
+#Hàm tính tổng các phần từ là số trong list
+    #lst: list chỉ chứa số và chuỗi
+def sumNumber(lst):
+    sum = 0
+    for item in lst:
+        try:
+            num = float(item)
+        except ValueError:
+            continue
+        sum += item
+    return sum
