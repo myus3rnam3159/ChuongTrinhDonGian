@@ -6,6 +6,10 @@ Xem notebook trên googlecolab
 
 program.py: chương trình theo đề  
 
+Tải file từ web(2 bước bên dưới):  
+https://docs.google.com/document/d/1-ATODq2FrR7dcA5EUlABCQ5HOCy8vJS-/edit
+https://stackoverflow.com/questions/67262326/how-to-clone-or-just-use-a-single-file-from-a-github-repository-in-google-cola/67327780#67327780
+
 Đọc file csv vào một list:  
 https://www.studytonight.com/python-howtos/how-to-read-csv-to-list-in-python
 
