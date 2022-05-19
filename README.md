@@ -6,6 +6,9 @@ Xem notebook trên googlecolab
 
 program.py: chương trình theo đề  
 
+Bỏ trùng lắp trong list gồm số hoặc chuỗi hoặc cả 2:  
+https://stackoverflow.com/questions/8200342/removing-duplicate-strings-from-a-list-in-python
+
 Kiểm tra phần tử trong list có phải là số không:  
 https://stackoverflow.com/questions/3225305/how-to-check-if-an-element-of-a-list-is-a-number
 

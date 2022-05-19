@@ -29,3 +29,8 @@ def sumNumber(lst):
             continue
         sum += item
     return sum
+#Hàm bỏ trùng lắp trong list
+    #lst1: list chỉ chứa số hoặc chuỗi hoặc cả 2
+def removeDuplicated(lst1):
+    derived_set = set(lst1)
+    return list(derived_set)
