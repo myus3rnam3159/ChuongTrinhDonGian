@@ -1,3 +1,4 @@
+import csv
 #Hàm xuất data theo dạng tùy chỉnh
     #data_path: đường dẫn đền file text chứa dữ liệu số: mỗi số cách nhau bằng dấu phẩy, sau dấu phẩy là một khoảng trắng, không có xuống dòng
     #fm: dạng dữ liệu muốn xuất:
@@ -34,3 +35,9 @@ def sumNumber(lst):
 def removeDuplicated(lst1):
     derived_set = set(lst1)
     return list(derived_set)
+#Hàm dọc file csv và lưu giá trị vào list
+    #csv_path: đường dẫn tới file csv
+def readCsvToList(csv_path):
+    csv_file = open('sample.csv', 'r')
+    csv_content = csv.reader(csv_file)
+    return list(csv_content)

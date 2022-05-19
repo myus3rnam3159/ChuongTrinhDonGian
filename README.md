@@ -6,6 +6,9 @@ Xem notebook trên googlecolab
 
 program.py: chương trình theo đề  
 
+Đọc file csv vào một list:  
+https://www.studytonight.com/python-howtos/how-to-read-csv-to-list-in-python
+
 Bỏ trùng lắp trong list gồm số hoặc chuỗi hoặc cả 2:  
 https://stackoverflow.com/questions/8200342/removing-duplicate-strings-from-a-list-in-python
 
